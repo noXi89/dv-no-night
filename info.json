@@ -1,8 +1,11 @@
 {
   "Id": "dv-no-night",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "DisplayName": "DV No Night",
   "Author": "noXi89",
   "EntryMethod": "DV_NO_NIGHT.Main.Load",
-  "ManagerVersion": "0.27.3"
+  "ManagerVersion": "0.27.3",
+  "AssemblyName": "dv-no-night.dll",
+  "HomePage": "https://www.nexusmods.com/derailvalley/mods/729",
+  "Repository": "https://raw.githubusercontent.com/noXi89/dv-no-night/main/repository.json"
 }

@@ -1,0 +1,14 @@
+﻿{
+  "Releases": [
+    {
+      "Id": "dv-no-night",
+      "Version": "1.0.1",
+      "DownloadUrl": "https://github.com/noXi89/dv-no-night/releases/download/v1.0.1/dv-no-night_v1.0.1.zip"
+    },
+    {
+      "Id": "dv-no-night",
+      "Version": "1.0.2",
+      "DownloadUrl": "https://github.com/noXi89/dv-no-night/releases/download/v1.0.2/dv-no-night_v1.0.2.zip"
+    }
+  ]
+}
