@@ -1,0 +1,8 @@
+{
+  "Id": "dv-no-night",
+  "Version": "1.0.1",
+  "DisplayName": "DV No Night",
+  "Author": "noXi89",
+  "EntryMethod": "DV_NO_NIGHT.Main.Load",
+  "ManagerVersion": "0.27.3"
+}

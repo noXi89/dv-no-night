@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{559D294C-646A-4393-AC6D-4570AD49A0A1}") = "dv-no-night", "dv-no-night/dv-no-night.csproj", "{BEB70A53-1CCF-48CE-9620-63BE9C288C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB70A53-1CCF-48CE-9620-63BE9C288C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB70A53-1CCF-48CE-9620-63BE9C288C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB70A53-1CCF-48CE-9620-63BE9C288C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB70A53-1CCF-48CE-9620-63BE9C288C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
